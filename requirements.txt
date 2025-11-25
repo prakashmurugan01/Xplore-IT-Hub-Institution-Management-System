@@ -19,6 +19,7 @@ whitenoise>=6.0
 Pillow>=9.0
 python-dotenv>=1.0
 djangorestframework-simplejwt>=5.0
+pysqlite3-binary
 
 # Optional / useful libraries (uncomment when used):
 # psycopg[binary]==2.9.6  # alternative exact pin for psycopg
