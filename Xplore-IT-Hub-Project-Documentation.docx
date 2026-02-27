@@ -1,0 +1,39 @@
+# Xplore IT Hub Project Documentation
+
+## Project Title
+**Xplore IT Hub**
+
+## Description
+Xplore IT Hub is an innovative software solution designed to simplify the management of academic institutions. The platform provides a user-friendly interface for students, faculty, and administrative staff to manage their academic activities efficiently. It integrates various functionalities such as student enrollment, attendance tracking, grading, and communication tools.
+
+## User Roles
+1. **Student**: Can view personal information, course materials, grades, and participate in discussions.
+2. **Faculty**: Responsible for managing course content, grading, communication with students, and tracking attendance.
+3. **Admin**: Oversees the entire system, manages user roles, and ensures data integrity.
+
+## Authentication System
+The authentication system is built on a secure framework that requires users to register and log in with their credentials. Passwords are encrypted to safeguard sensitive information. Role-based access control ensures that users can only access sections relevant to their roles.
+
+## Technology Stack
+- **Frontend**: HTML, CSS, JavaScript (React.js)
+- **Backend**: Node.js, Express.js
+- **Database**: MongoDB
+- **Hosting**: AWS or Heroku
+
+## Features
+- User registration and login
+- Role management (Admin, Faculty, Student)
+- Attendance tracking
+- Grade management
+- Course materials management
+- Discussion forums
+
+## Setup Instructions
+1. Clone the repository: `git clone https://github.com/prakashmurugan01/Xplore-IT-Hub-Institution-Management-System.git`
+2. Install dependencies: `npm install`
+3. Set up environment variables in a `.env` file as per the provided `.env.example`.
+4. Start the server: `npm start`
+5. Access the application at `http://localhost:3000`.
+
+## Current Date and Time
+**UTC**: 2026-02-27 04:48:34
